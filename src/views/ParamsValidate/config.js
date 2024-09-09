@@ -1,0 +1,17 @@
+export const fieldTooltipMap = {
+    dbid: '数据中心ID',
+    username: '用户名称',
+    appid: '应用程序ID',
+    signeddata: '',
+    timestamp: '登录时间戳(Unix时间戳)',
+    lcid: '语言ID(可选)',
+    origintype: '集成方式',
+    entryrole: '验证权限的入口角色',
+    formid: '登录后默认打开功能的表单id',
+    formtype: '单据类型',
+    pkid: 'formid对应表单的主键',
+    otherargs: '用户自定义参数',
+    permitcount: '允许登录次数',
+    formargs: '表单初始化自定义参数',
+    openmode: '登陆后打开指定功能单据的模式',
+}
